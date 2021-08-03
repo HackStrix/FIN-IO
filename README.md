@@ -23,7 +23,7 @@ The user will generate will input their income, amount planning to invest, and t
 
 
 ## Images
-![alt-text-1](images/gallery.jpg "Logo") ![alt-text-1](images/"gallery (1).jpg" "Logo")
+![alt-text-1](images/gallery.jpg "Logo") ![alt-text-1](images/gallery%20%281%29.jpg "Logo")
 ![alt-text-1](images/"gallery (2).jpg" "Logo") ![alt-text-1](images/"gallery (3).jpg" "Logo")
 
 

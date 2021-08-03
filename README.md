@@ -21,6 +21,12 @@ As finance enthusiasts, we wanted to use our programming knowledge to help peopl
 ## What it does
 The user will generate will input their income, amount planning to invest, and the risk of the investment. Then, the program will generate the list of ETFs and bonds that might be suitable for the users. Users can also view the history of the price movements.
 
+
+## Images
+![alt-text-1](images/gallery.jpg "Logo") ![alt-text-1](images/gallery (1).jpg "Logo")
+
+
+
 ## How we built it
 We use HTML, CSS, and JS for the frontend. Then, we use Python and Flask framework for the backend. We also use yfinance to extract data.
 
